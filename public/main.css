@@ -1,0 +1,47 @@
+html, body {
+  min-height: 100%;
+  min-width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font: gotham A;
+}
+
+header .content {
+  background: url(images/rory.jpg) no-repeat center center fixed;
+  background-size: cover;
+	height: 500px;
+}
+
+header .heading {
+  padding-top: 80px;
+  text-align: center;
+  color: #ffffff;
+}
+
+p {
+  text-indent: 20px;
+}
+
+section {
+  padding: 20px 50px 60px 50px;
+}
+
+section .heading {
+  text-align: center;
+  padding-bottom: 10px;
+}
+
+#about {
+  background: #bec6d9;
+}
+
+#mission {
+  background: #ffffff;
+}
+
+#media-reports {
+  background: #bec6d9;
+}
